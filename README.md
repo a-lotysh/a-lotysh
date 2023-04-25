@@ -11,4 +11,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=a-lotysh&theme=algolia&hide_border=false)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=a-lotysh&icon=8&color=6)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=a-lotysh&icon=8&color=6)
