@@ -1,6 +1,5 @@
 # 💫 Hi there:
-🔭 I’m currently working on Digital Idea Studio as Full-stack Web Developer<br>👯 I’m looking to collaborate on progressive companies<br>🤝 I’m looking for help with deep dive into architecture
-
+🔭 I’m Andii, Full-stack Web Developer😎
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-lotysh/) [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/andrii_lotysh) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/andrii.lotysh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/andrii.lotysh/)
